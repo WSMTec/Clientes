@@ -1,0 +1,45 @@
+[30-Apr-2023 15:12:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:107
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 107
+[01-May-2023 15:23:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:107
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 107
+[01-May-2023 15:28:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:107
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 107
+[01-May-2023 15:30:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:109
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 109
+[01-May-2023 15:35:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:109
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 109
+[01-May-2023 15:38:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:109
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 109
+[01-May-2023 15:39:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:110
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 110
+[01-May-2023 15:39:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:110
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 110
+[01-May-2023 15:41:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method AdminUpload::Update() in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php:111
+Stack trace:
+#0 /home/advogadofacom/public_html/adm/_models/AdminManager.php(1238): AdminUpload->ExeUpdate(Array)
+#1 {main}
+  thrown in /home/advogadofacom/public_html/adm/_models/Class/AdminUpload.class.php on line 111
